@@ -1,0 +1,1 @@
+# nousekikaku01_day01_python_basic
