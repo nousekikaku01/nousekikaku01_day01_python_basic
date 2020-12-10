@@ -2,4 +2,6 @@
 
 name = input()
 
-print(name)
+message = 'Hello ' + name + ' !!!'
+
+print(message)
